@@ -1,7 +1,7 @@
 export const initList = [
     {
-        id: 1,
+        id: 0,
         title: "test",
-        finished: false,
+        completed: false,
     },
 ]
