@@ -1,7 +1,7 @@
-import './App.css';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Display from './components/Display';
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+import Display from "./components/Display";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           <Display />
         </div>
         <Footer />
-        </div>
+      </div>
     </div>
   );
 }
